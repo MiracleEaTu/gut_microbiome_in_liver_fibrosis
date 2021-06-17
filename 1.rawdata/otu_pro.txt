@@ -1,0 +1,41 @@
+OTUID	taxonomy	sum	phylum	color
+331720	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	24554	Bacteroidetes	deepskyblue
+217100	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	338	Bacteroidetes	deepskyblue
+1107652	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	569	Bacteroidetes	deepskyblue
+339017	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	8970	Bacteroidetes	deepskyblue
+New.CleanUp.ReferenceOTU27258	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	265	Bacteroidetes	deepskyblue
+589071	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis	163	Bacteroidetes	deepskyblue
+New.ReferenceOTU9	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	5468	Bacteroidetes	deepskyblue
+204088	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1320	Bacteroidetes	deepskyblue
+191994	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1137	Bacteroidetes	deepskyblue
+1802717	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	25837	Bacteroidetes	deepskyblue
+4405128	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	974	Cyanobacteria	deeppink
+278650	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	118	Cyanobacteria	deeppink
+258995	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	168	Firmicutes	green
+462764	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	63	Firmicutes	green
+New.CleanUp.ReferenceOTU7668	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	99	Firmicutes	green
+270519	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1660	Firmicutes	green
+351449	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1412	Firmicutes	green
+276531	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	189	Firmicutes	green
+591907	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus	100	Firmicutes	green
+274018	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	609	Firmicutes	green
+449353	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	367	Firmicutes	green
+303414	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	4	Firmicutes	green
+New.ReferenceOTU103	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1860	Firmicutes	green
+188741	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	192	Firmicutes	green
+199307	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	389	Firmicutes	green
+206494	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1027	Firmicutes	green
+New.CleanUp.ReferenceOTU34485	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	518	Firmicutes	green
+408513	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	81	Firmicutes	green
+766768	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__	183	Firmicutes	green
+227788	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	525	Firmicutes	green
+343264	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	532	Firmicutes	green
+833816	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	135	Firmicutes	green
+214919	k__Bacteria; p__Firmicutes; c__Bacilli; o__Turicibacterales; f__Turicibacteraceae; g__Turicibacter; s__	1702	Firmicutes	green
+268962	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	841	Firmicutes	green
+3016478	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	299	Firmicutes	green
+311173	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Helicobacteraceae; g__; s__	4	Proteobacteria	yellow
+1684221	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__	4124	Proteobacteria	yellow
+New.ReferenceOTU149	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	403	Proteobacteria	yellow
+273232	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila	1520	Verrucomicrobia	brown
+				
