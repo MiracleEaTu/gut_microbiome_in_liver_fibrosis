@@ -66,9 +66,22 @@ def optimization(df_control, df_treatment, name_output=''):
     ax.figure.tight_layout()
     plt.savefig('../3.figures_files/%s_20210612.pdf'%name_output)
     plt.close()
+    x_fmt = pd.read_excel('../1.rawdata/FMT_OTUs_20210612.xlsx', index_col=0)
+    x_fmt.index = x_fmt.index.map(test_map)
+    x_fmt = x_fmt['626AC1'].T
+    # print(x_fmt)
+    # print(list(df_control.columns.values))
+    # print(list(x_fmt.columns.values))
+    x_fmt_using = x_fmt[list(df_control.columns.values)]
+    x_fmt_test = np.array(x_fmt_using.values).reshape(1,-1)
+    # print(x_fmt_test)
+    y_fmt_test = rfc.predict(x_fmt_test)
+    print('FMT OTUs in RandomForest Classification is in %i model'%y_fmt_test)
     # plt.show()
     return 0
 
+def test_map(x):
+    return str(x)
 
 def randomforest_modeling():
     df_D28_JFH_CCl4 = pd.read_excel('../2.output_files/D28-JFH-CCl4_20210610.xlsx', index_col=0).T
@@ -89,10 +102,10 @@ def randomforest_modeling():
     df_CTL = df_D28_CTL.append(df_D14_CTL)
     optimization(df_control=df_CCl4, df_treatment=df_JFD, name_output='JFD2CCl4')
     optimization(df_control=df_CCl4, df_treatment=df_JFH, name_output='JFH2CCl4')
-    optimization(df_control=df_CCl4, df_treatment=df_CTL, name_output='CTL2CCl4')
+    optimization(df_control=df_CCl4, df_treatment=df_CTL , name_output='CTL2CCl4')
     return 0
    
 
 if __name__ == '__main__':
-    forest_selection()
+    # forest_selection()
     randomforest_modeling()
